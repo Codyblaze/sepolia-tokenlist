@@ -1,0 +1,27 @@
+{
+  "name": "Sepolia Token List",
+  "timestamp": "2025-04-22T12:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 11155111,
+      "address": "0x7eaa8557e1a608bcc77c2d392093ce7f05c0db14",
+      "name": "Tea Token",
+      "symbol": "TEA",
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/tezos-xtz-logo.png?v=030"  
+    },
+    {
+      "chainId": 11155111,
+      "address": "0xf9ab1c552ceb4665074c854b70ae9eef72bc5e10",
+      "name": "Tether USD (Sepolia)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.png?v=030"
+    }
+  ]
+}
